@@ -1,0 +1,45 @@
+.picture {
+  margin: 60px 140px 20px;
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+  padding: 20px;
+}
+
+.teste {
+  width: 25rem;
+  border-radius: 20px;
+}
+
+.about-me {
+  display: flex;
+  justify-content: space-between;
+}
+
+.text-content {
+  margin: 8rem;
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  letter-spacing: 5px;
+  font-weight: 600;
+  font-size: 3rem;
+  font-family: "Nunito", sans-serif;
+  margin-right: 100px;
+  margin-bottom: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-transform: uppercase;
+}
+
+p {
+  font-family: "Nunito", sans-serif;
+  font-size: 1rem;
+  font-weight: 600;
+  letter-spacing: 2px;
+  text-align: left;
+  overflow-wrap: break-word;
+}
